@@ -1,2 +1,83 @@
 #adding new line
 
+# ==========================================
+# STM32CubeIDE / Eclipse Workspace Files
+# ==========================================
+
+.metadata/
+.recommenders/
+.recommenders-cache/
+RemoteSystemsTempFiles/
+.stm32cubeide/
+
+# ==========================================
+# Build Output Directories
+# ==========================================
+
+Debug/
+Release/
+build/
+out/
+[Bb]uild/
+
+# ==========================================
+# Compiler Generated Files
+# ==========================================
+
+*.o
+*.obj
+*.d
+*.elf
+*.axf
+*.hex
+*.bin
+*.map
+*.list
+*.lst
+*.su
+*.cyclo
+*.srec
+*.a
+
+# ==========================================
+# Temporary and Backup Files
+# ==========================================
+
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.log
+*~
+
+# ==========================================
+# Debugger Generated Files
+# ==========================================
+
+*.jlink
+*.jlinkscript
+
+# ==========================================
+# Python Generated Files
+# ==========================================
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ==========================================
+# Operating System Files
+# ==========================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# Local Environment Files
+# ==========================================
+
+.env
+
